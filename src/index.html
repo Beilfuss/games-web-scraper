@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minha Página</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Coleção de dados de jogos</h1>
+      <p>
+        Esta é uma página simples com funções de coleta e exibição de dados
+        raspados dos sites metacritic e mobygames para a matéria de tópicos
+        especiais em gerencia de dados.
+      </p>
+      <div class="buttons">
+        <label for="page">Página:</label>
+        <input type="number" id="page" name="page" min="1" value="1" />
+        <button onclick="atualizarDados()">Atualizar dados</button>
+        <button onclick="scrapeDataMeta()">Raspar dados Metacritic</button>
+        <button onclick="scrapeDataMoby()">Raspar dados Mobygames</button>
+      </div>
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>URL da Imagem</th>
+            <th>Ano</th>
+            <th>Avaliação Metacritic</th>
+            <th>Avaliação Mobygames</th>
+            <th>Origem</th>
+          </tr>
+        </thead>
+        <tbody id="data-table-body"></tbody>
+      </table>
+    </div>
+  </body>
+  <script>
+    function updateTable(data) {
+      const tableBody = document.getElementById("data-table-body");
+      tableBody.innerHTML = ""; // Limpar o conteúdo atual da tabela
+
+      // Iterar sobre os dados e adicionar linhas à tabela
+      data.forEach((item) => {
+        const domain = item.url.split("/")[2];
+        const row = `
+                    <tr>
+                        <td>${item.title}</td>
+                        <td><img src="${item.img}" alt="Miniatura" width="50"></td>
+                        <td>${item.year}</td>
+                        <td>${item.scoreMeta}</td>
+                        <td>${item.scoreMoby}</td>
+                        <td>${domain}</td>
+                    </tr>
+                `;
+        tableBody.innerHTML += row;
+      });
+    }
+
+    function atualizarDados() {
+      // Fazer uma requisição HTTP para a rota /update-data
+      fetch("/update-data")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Erro ao atualizar os dados");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          updateTable(data);
+        })
+        .catch((error) => {
+          console.error("Erro:", error);
+          alert("Erro ao atualizar os dados");
+        });
+    }
+
+    function scrapeDataMeta() {
+      const site = "meta";
+      const page = document.getElementById("page").value;
+
+      // Fazer uma requisição HTTP para a rota /scrape
+      fetch(`/scrape/${site}/${page}`)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Erro ao raspar os dados");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          console.log(data); // Exibir os dados no console
+          updateTable(data);
+          alert("Dados raspados com sucesso!");
+        })
+        .catch((error) => {
+          console.error("Erro:", error);
+          alert("Erro ao raspar os dados");
+        });
+    }
+
+    function scrapeDataMoby() {
+      const site = "moby";
+      const page = document.getElementById("page").value;
+
+      // Fazer uma requisição HTTP para a rota /scrape
+      fetch(`/scrape/${site}/${page}`)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Erro ao raspar os dados");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          console.log(data); // Exibir os dados no console
+          updateTable(data);
+          alert("Dados raspados com sucesso!");
+        })
+        .catch((error) => {
+          console.error("Erro:", error);
+          alert("Erro ao raspar os dados");
+        });
+    }
+  </script>
+</html>
