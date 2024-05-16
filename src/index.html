@@ -16,10 +16,17 @@
       </p>
       <div class="buttons">
         <label for="page">Página:</label>
-        <input type="number" id="page" name="page" min="1" value="1" />
+        <input
+          type="number"
+          id="page"
+          name="page"
+          min="1"
+          value="1"
+          style="width: 40px"
+        />
+        <label for="page"> / 525 </label>
         <button onclick="atualizarDados()">Atualizar dados</button>
-        <button onclick="scrapeDataMeta()">Raspar dados Metacritic</button>
-        <button onclick="scrapeDataMoby()">Raspar dados Mobygames</button>
+        <button onclick="scrapeData()">Raspar dados</button>
       </div>
       <table class="data-table">
         <thead>
@@ -60,7 +67,8 @@
 
     function atualizarDados() {
       // Fazer uma requisição HTTP para a rota /update-data
-      fetch("/update-data")
+      const page = document.getElementById("page").value;
+      fetch(`/update-data/${page}`)
         .then((response) => {
           if (!response.ok) {
             throw new Error("Erro ao atualizar os dados");
@@ -76,49 +84,21 @@
         });
     }
 
-    function scrapeDataMeta() {
-      const site = "meta";
-      const page = document.getElementById("page").value;
-
-      // Fazer uma requisição HTTP para a rota /scrape
-      fetch(`/scrape/${site}/${page}`)
+    function scrapeData() {
+      // Fazer uma requisição HTTP para a rota /update-data
+      fetch("/scrape")
         .then((response) => {
           if (!response.ok) {
-            throw new Error("Erro ao raspar os dados");
+            throw new Error("Erro ao atualizar os dados");
           }
           return response.json();
         })
         .then((data) => {
-          console.log(data); // Exibir os dados no console
           updateTable(data);
-          alert("Dados raspados com sucesso!");
         })
         .catch((error) => {
           console.error("Erro:", error);
-          alert("Erro ao raspar os dados");
-        });
-    }
-
-    function scrapeDataMoby() {
-      const site = "moby";
-      const page = document.getElementById("page").value;
-
-      // Fazer uma requisição HTTP para a rota /scrape
-      fetch(`/scrape/${site}/${page}`)
-        .then((response) => {
-          if (!response.ok) {
-            throw new Error("Erro ao raspar os dados");
-          }
-          return response.json();
-        })
-        .then((data) => {
-          console.log(data); // Exibir os dados no console
-          updateTable(data);
-          alert("Dados raspados com sucesso!");
-        })
-        .catch((error) => {
-          console.error("Erro:", error);
-          alert("Erro ao raspar os dados");
+          alert("Erro ao atualizar os dados");
         });
     }
   </script>

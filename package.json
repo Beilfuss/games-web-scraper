@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon --ignore data.json index.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.19.2",
+    "fs": "^0.0.1-security",
     "nodemon": "^3.1.0",
     "puppeteer": "^22.6.3"
   }
