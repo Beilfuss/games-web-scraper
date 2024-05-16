@@ -1,0 +1,1132 @@
+Server running on port 3000
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=1
+esperando 1.738 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:1/
+esperando3.306segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2
+esperando 1.681 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:2/
+esperando7.404segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=3
+esperando 2.22 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:3/
+esperando4.593segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=4
+esperando 7.672 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:4/
+esperando4.026segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=5
+esperando 1.46 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:5/
+esperando9.986segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=6
+esperando 9.062 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:6/
+esperando8.646segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=7
+esperando 2.925 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:7/
+esperando7.086segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=8
+esperando 6.633 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:8/
+esperando1.547segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=9
+esperando 0.211 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:9/
+esperando1.421segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=10
+esperando 0.323 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:10/
+esperando0.766segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=11
+esperando 5.768 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:11/
+esperando3.327segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=12
+esperando 6.011 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:12/
+esperando9.716segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=13
+esperando 8.196 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:13/
+esperando0.401segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=14
+esperando 8.046 segundos para a próxima requisição
+https://www.mobygames.com/game/sort:moby_score/page:14/
+Condição de parada para o Mobygames atingida!
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=15
+esperando 3.575 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=16
+esperando 7.686 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=17
+esperando 0.433 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=18
+esperando 4.994 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=19
+esperando 3.688 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=20
+esperando 5.718 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=21
+esperando 1.215 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=22
+esperando 4.061 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=23
+esperando 8.068 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=24
+esperando 0.585 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=25
+esperando 1.318 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=26
+esperando 1.369 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=27
+esperando 4.219 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=28
+esperando 5.182 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=29
+esperando 8.241 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=30
+esperando 0.695 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=31
+esperando 0.255 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=32
+esperando 9.903 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=33
+esperando 0.756 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=34
+esperando 8.542 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=35
+esperando 7.716 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=36
+esperando 3.884 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=37
+esperando 9 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=38
+esperando 0.178 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=39
+esperando 6.143 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=40
+esperando 0.43 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=41
+esperando 1.321 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=42
+esperando 7.031 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=43
+esperando 5.035 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=44
+esperando 2.043 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=45
+esperando 7.941 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=46
+esperando 9.217 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=47
+esperando 8.077 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=48
+esperando 9.344 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=49
+esperando 2.897 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=50
+esperando 0.33 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=51
+esperando 4.033 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=52
+esperando 5.889 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=53
+esperando 2.459 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=54
+esperando 1.997 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=55
+esperando 0.568 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=56
+esperando 9.791 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=57
+esperando 1.512 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=58
+esperando 5.728 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=59
+esperando 5.369 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=60
+esperando 3.798 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=61
+esperando 5.672 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=62
+esperando 6.681 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=63
+esperando 9.989 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=64
+esperando 7.039 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=65
+esperando 9.312 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=66
+esperando 7.739 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=67
+esperando 0.147 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=68
+esperando 4.77 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=69
+esperando 9.424 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=70
+esperando 9.745 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=71
+esperando 9.402 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=72
+esperando 7.724 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=73
+esperando 1.714 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=74
+esperando 4.144 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=75
+esperando 6.312 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=76
+esperando 3.708 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=77
+esperando 4.284 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=78
+esperando 0.39 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=79
+esperando 9.803 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=80
+esperando 7.737 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=81
+esperando 7.46 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=82
+esperando 8.229 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=83
+esperando 7.788 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=84
+esperando 2.005 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=85
+esperando 6.484 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=86
+esperando 4.576 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=87
+esperando 4.559 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=88
+esperando 6.445 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=89
+esperando 8.914 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=90
+esperando 3.932 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=91
+esperando 1.664 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=92
+esperando 7.205 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=93
+esperando 4.504 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=94
+esperando 2.147 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=95
+esperando 3.808 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=96
+esperando 3.76 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=97
+esperando 3.572 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=98
+esperando 2.277 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=99
+esperando 7.943 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=100
+esperando 6.489 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=101
+esperando 6.428 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=102
+esperando 8.296 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=103
+esperando 4.954 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=104
+esperando 2.394 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=105
+esperando 3.053 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=106
+esperando 6.223 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=107
+esperando 1.394 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=108
+esperando 4.7 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=109
+esperando 5.505 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=110
+esperando 9.513 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=111
+esperando 6.397 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=112
+esperando 7.521 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=113
+esperando 4.944 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=114
+esperando 2.219 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=115
+esperando 9.47 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=116
+esperando 8.283 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=117
+esperando 2.575 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=118
+esperando 6.998 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=119
+esperando 0.008 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=120
+esperando 2.866 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=121
+esperando 4.185 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=122
+esperando 3.536 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=123
+esperando 4.984 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=124
+esperando 7.328 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=125
+esperando 5.414 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=126
+esperando 7.587 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=127
+esperando 1.827 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=128
+esperando 7.984 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=129
+esperando 5.661 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=130
+esperando 8.951 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=131
+esperando 2.855 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=132
+esperando 2.249 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=133
+esperando 2.759 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=134
+esperando 2.994 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=135
+esperando 4.934 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=136
+esperando 1.507 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=137
+esperando 6.603 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=138
+esperando 4.404 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=139
+esperando 6.177 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=140
+esperando 9.624 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=141
+esperando 1.38 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=142
+esperando 6.375 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=143
+esperando 1.617 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=144
+esperando 1.981 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=145
+esperando 9.771 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=146
+esperando 7.359 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=147
+esperando 1.99 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=148
+esperando 9.97 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=149
+esperando 2.512 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=150
+esperando 5.023 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=151
+esperando 3.41 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=152
+esperando 2.221 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=153
+esperando 9.154 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=154
+esperando 7.102 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=155
+esperando 4.892 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=156
+esperando 8.933 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=157
+esperando 9.77 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=158
+esperando 9.651 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=159
+esperando 7.419 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=160
+esperando 2.549 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=161
+esperando 1.143 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=162
+esperando 6.745 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=163
+esperando 9.853 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=164
+esperando 3.949 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=165
+esperando 0.993 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=166
+esperando 0.69 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=167
+esperando 8.863 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=168
+esperando 0.08 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=169
+esperando 9.03 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=170
+esperando 3.359 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=171
+esperando 0.334 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=172
+esperando 6.819 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=173
+esperando 7.325 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=174
+esperando 9.704 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=175
+esperando 8.655 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=176
+esperando 2.542 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=177
+esperando 9.063 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=178
+esperando 3.046 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=179
+esperando 2.649 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=180
+esperando 7.189 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=181
+esperando 3.155 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=182
+esperando 0.706 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=183
+esperando 6.322 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=184
+esperando 7.166 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=185
+esperando 4.005 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=186
+esperando 0.569 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=187
+esperando 8.27 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=188
+esperando 4.953 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=189
+esperando 5.425 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=190
+esperando 6.85 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=191
+esperando 2.748 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=192
+esperando 9.361 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=193
+esperando 9.958 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=194
+esperando 7.322 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=195
+esperando 9.011 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=196
+esperando 0.532 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=197
+esperando 2.873 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=198
+esperando 4.124 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=199
+esperando 4.356 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=200
+esperando 5.535 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=201
+esperando 7.481 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=202
+esperando 0.988 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=203
+esperando 6.593 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=204
+esperando 1.842 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=205
+esperando 1.296 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=206
+esperando 8.839 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=207
+esperando 7.725 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=208
+esperando 0.116 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=209
+esperando 4.297 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=210
+esperando 9.723 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=211
+esperando 1.964 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=212
+esperando 7.995 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=213
+esperando 6.939 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=214
+esperando 0.975 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=215
+esperando 4.697 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=216
+esperando 8.411 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=217
+esperando 8.9 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=218
+esperando 5.301 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=219
+esperando 0.416 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=220
+esperando 0.922 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=221
+esperando 6.736 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=222
+esperando 3.306 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=223
+esperando 3.062 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=224
+esperando 6.116 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=225
+esperando 3.424 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=226
+esperando 8.495 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=227
+esperando 1.196 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=228
+esperando 8.368 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=229
+esperando 6.666 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=230
+esperando 9.272 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=231
+esperando 8.474 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=232
+esperando 5.776 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=233
+esperando 3.077 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=234
+esperando 5.755 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=235
+esperando 7.91 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=236
+esperando 2.411 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=237
+esperando 3.357 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=238
+esperando 0.917 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=239
+esperando 8.63 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=240
+esperando 7.701 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=241
+esperando 3.626 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=242
+esperando 0.223 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=243
+esperando 3.835 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=244
+esperando 6.535 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=245
+esperando 0.1 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=246
+esperando 5.382 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=247
+esperando 1.332 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=248
+esperando 1.082 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=249
+esperando 2.468 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=250
+esperando 4.089 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=251
+esperando 8.583 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=252
+esperando 0.65 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=253
+esperando 1.642 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=254
+esperando 0.578 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=255
+esperando 9.697 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=256
+esperando 1.135 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=257
+esperando 2.899 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=258
+esperando 5.34 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=259
+esperando 0.468 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=260
+esperando 5.567 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=261
+esperando 6.422 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=262
+esperando 9.918 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=263
+esperando 8.811 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=264
+esperando 5.88 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=265
+esperando 8.712 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=266
+esperando 5.9 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=267
+esperando 7.318 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=268
+esperando 7.142 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=269
+esperando 4.756 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=270
+esperando 5.933 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=271
+esperando 3.552 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=272
+esperando 1.898 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=273
+esperando 2.506 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=274
+esperando 8.23 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=275
+esperando 9.163 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=276
+esperando 3.885 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=277
+esperando 1.165 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=278
+esperando 4.954 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=279
+esperando 9.714 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=280
+esperando 7.742 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=281
+esperando 8.574 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=282
+esperando 4.263 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=283
+esperando 2.34 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=284
+esperando 0.007 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=285
+esperando 8.184 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=286
+esperando 7.52 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=287
+esperando 0.789 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=288
+esperando 1.545 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=289
+esperando 4.223 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=290
+esperando 1.992 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=291
+esperando 1.233 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=292
+esperando 6.481 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=293
+esperando 9.167 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=294
+esperando 9.314 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=295
+esperando 8.609 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=296
+esperando 6.596 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=297
+esperando 0.385 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=298
+esperando 7.688 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=299
+esperando 6.399 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=300
+esperando 8.133 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=301
+esperando 2.131 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=302
+esperando 9.899 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=303
+esperando 9.507 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=304
+esperando 3.869 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=305
+esperando 9.656 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=306
+esperando 5.915 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=307
+esperando 0.261 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=308
+esperando 2.096 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=309
+esperando 8.152 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=310
+esperando 5.882 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=311
+esperando 5.165 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=312
+esperando 6.44 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=313
+esperando 8.349 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=314
+esperando 9.346 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=315
+esperando 7.99 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=316
+esperando 5.345 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=317
+esperando 0.394 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=318
+esperando 1.67 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=319
+esperando 7.204 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=320
+esperando 7.486 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=321
+esperando 8.87 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=322
+esperando 9.844 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=323
+esperando 1.345 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=324
+esperando 3.246 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=325
+esperando 7.416 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=326
+esperando 6.542 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=327
+esperando 6.481 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=328
+esperando 8.407 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=329
+esperando 8.874 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=330
+esperando 3.753 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=331
+esperando 9.51 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=332
+esperando 1.191 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=333
+esperando 5.327 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=334
+esperando 2.534 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=335
+esperando 8.011 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=336
+esperando 8.091 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=337
+esperando 4.333 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=338
+esperando 1.023 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=339
+esperando 6.239 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=340
+esperando 9.59 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=341
+esperando 1.558 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=342
+esperando 5.71 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=343
+esperando 4.861 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=344
+esperando 6.585 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=345
+esperando 3.017 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=346
+esperando 1.084 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=347
+esperando 3.837 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=348
+esperando 6.988 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=349
+esperando 2.721 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=350
+esperando 2.694 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=351
+esperando 0.963 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=352
+esperando 1.916 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=353
+esperando 5.562 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=354
+esperando 7.135 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=355
+esperando 2.137 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=356
+esperando 9.885 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=357
+esperando 1.495 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=358
+esperando 3.917 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=359
+esperando 3.958 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=360
+esperando 5.498 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=361
+esperando 2.764 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=362
+esperando 7.805 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=363
+esperando 2.255 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=364
+esperando 6.783 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=365
+esperando 2.569 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=366
+esperando 2.06 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=367
+esperando 8.205 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=368
+esperando 4.2 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=369
+esperando 7.662 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=370
+esperando 1.422 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=371
+esperando 6.699 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=372
+esperando 0.714 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=373
+esperando 3.41 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=374
+esperando 8.765 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=375
+esperando 5.419 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=376
+esperando 5.481 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=377
+esperando 5.974 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=378
+esperando 7.99 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=379
+esperando 8.196 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=380
+esperando 7.364 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=381
+esperando 9.003 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=382
+esperando 9.738 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=383
+esperando 9.159 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=384
+esperando 7.415 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=385
+esperando 9.871 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=386
+esperando 6.458 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=387
+esperando 0.779 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=388
+esperando 9.125 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=389
+esperando 7.146 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=390
+esperando 1.784 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=391
+esperando 2.809 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=392
+esperando 8.838 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=393
+esperando 4.142 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=394
+esperando 2.871 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=395
+esperando 2.693 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=396
+esperando 8.641 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=397
+esperando 2.654 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=398
+esperando 1.694 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=399
+esperando 5.14 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=400
+esperando 2.691 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=401
+esperando 3.959 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=402
+esperando 4.733 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=403
+esperando 6.466 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=404
+esperando 1.278 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=405
+esperando 7.071 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=406
+esperando 5.623 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=407
+esperando 5.074 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=408
+esperando 6.578 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=409
+esperando 2.119 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=410
+esperando 3.757 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=411
+esperando 7.736 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=412
+esperando 7.455 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=413
+esperando 3.636 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=414
+esperando 7.097 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=415
+esperando 4.33 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=416
+esperando 9.314 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=417
+esperando 1.595 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=418
+esperando 1.137 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=419
+esperando 1.253 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=420
+esperando 2.871 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=421
+esperando 9.658 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=422
+esperando 2.573 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=423
+esperando 5.091 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=424
+esperando 9.8 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=425
+esperando 8.323 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=426
+esperando 1.636 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=427
+esperando 7.382 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=428
+esperando 3.523 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=429
+esperando 4.614 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=430
+esperando 6.323 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=431
+esperando 8.897 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=432
+esperando 7.716 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=433
+esperando 5.387 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=434
+esperando 1.827 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=435
+esperando 5.16 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=436
+esperando 2.319 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=437
+esperando 2.326 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=438
+esperando 1.398 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=439
+esperando 5.334 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=440
+esperando 4.357 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=441
+esperando 1.768 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=442
+esperando 8.647 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=443
+esperando 5.318 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=444
+esperando 7.254 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=445
+esperando 6.634 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=446
+esperando 2.657 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=447
+esperando 0.544 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=448
+esperando 1.976 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=449
+esperando 3.85 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=450
+esperando 7.401 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=451
+esperando 2.371 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=452
+esperando 3.333 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=453
+esperando 1.758 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=454
+esperando 1.384 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=455
+esperando 6.117 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=456
+esperando 5.739 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=457
+esperando 5.075 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=458
+esperando 2.909 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=459
+esperando 8.031 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=460
+esperando 5.183 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=461
+esperando 3.134 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=462
+esperando 6.203 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=463
+esperando 3.509 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=464
+esperando 0.576 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=465
+esperando 2.03 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=466
+esperando 9.186 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=467
+esperando 1.416 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=468
+esperando 2.286 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=469
+esperando 0.206 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=470
+esperando 6.866 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=471
+esperando 8.134 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=472
+esperando 6.739 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=473
+esperando 6.554 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=474
+esperando 1.559 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=475
+esperando 7.978 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=476
+esperando 4.195 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=477
+esperando 7.71 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=478
+esperando 9.088 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=479
+esperando 2.21 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=480
+esperando 8.493 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=481
+esperando 4.086 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=482
+esperando 7.343 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=483
+esperando 5.147 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=484
+esperando 0.08 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=485
+esperando 3.02 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=486
+esperando 2.295 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=487
+esperando 5.868 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=488
+esperando 3.623 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=489
+esperando 4.911 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=490
+esperando 7.415 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=491
+esperando 5.857 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=492
+esperando 6.375 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=493
+esperando 5.173 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=494
+esperando 1.642 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=495
+esperando 5.311 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=496
+esperando 3.039 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=497
+esperando 5.256 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=498
+esperando 4.232 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=499
+esperando 9.824 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=500
+esperando 7.276 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=501
+esperando 2.73 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=502
+esperando 0.535 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=503
+esperando 2.702 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=504
+esperando 8.23 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=505
+esperando 5.869 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=506
+esperando 2.941 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=507
+esperando 1.598 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=508
+esperando 5.984 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=509
+esperando 6.727 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=510
+esperando 9.236 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=511
+esperando 9.912 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=512
+esperando 2.648 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=513
+esperando 7.187 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=514
+esperando 2.668 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=515
+esperando 6.028 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=516
+esperando 8.716 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=517
+esperando 6.256 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=518
+esperando 9.598 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=519
+esperando 1.15 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=520
+esperando 6.42 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=521
+esperando 5.081 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=522
+esperando 1.007 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=523
+esperando 0.313 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=524
+esperando 0.448 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=525
+esperando 7.284 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=526
+esperando 8.57 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=527
+esperando 8.296 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=528
+esperando 8.601 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=529
+esperando 9.381 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=530
+esperando 6.122 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=531
+esperando 2.99 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=532
+esperando 1.903 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=533
+esperando 2.718 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=534
+esperando 8.058 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=535
+esperando 7.611 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=536
+esperando 8.959 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=537
+esperando 6.232 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=538
+esperando 7.384 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=539
+esperando 2.84 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=540
+esperando 1.924 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=541
+esperando 7.84 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=542
+esperando 6.999 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=543
+esperando 7.78 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=544
+esperando 2.051 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=545
+esperando 4.216 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=546
+esperando 0.261 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=547
+esperando 2.195 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=548
+esperando 9.291 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=549
+esperando 2.313 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=550
+esperando 9.407 segundos para a próxima requisição
+https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=551
+Condição de parada para o Metacritic atingida!
+O arquivo JSON foi criado e gravado com sucesso.
